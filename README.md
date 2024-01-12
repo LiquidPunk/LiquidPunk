@@ -1,4 +1,7 @@
 ### Hi there 👋
+## I'm Min-jun Burgos 🙂
+## Interested in Machine Learning, but open to any forms of programming. 🤔
+📫 How to reach me: minjun.burgos20@gmail.com
 
 <!--
 **LiquidPunk/LiquidPunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
