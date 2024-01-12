@@ -3,6 +3,7 @@
 ## I'm Min-jun Burgos 🙂
 - Interested in Machine Learning, but open to any forms of programming. 🤔
 - Reach me at: minjun.burgos20@gmail.com 📫
+- P.S. Should add more things here
 
 
 <!--
