@@ -2,7 +2,7 @@
 
 ## I'm Min-jun Burgos 🙂
 - Interested in Machine Learning, but open to any forms of programming. 🤔
-- 📫 How to reach me: minjun.burgos20@gmail.com
+- Reach me at: minjun.burgos20@gmail.com 📫
 
 
 <!--
